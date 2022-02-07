@@ -14,7 +14,7 @@ public class SpoonaSreachController {
     public RestTemplate restTemplate(RestTemplateBuilder restTemplateBuilder) {
         return restTemplateBuilder.build();
     }
-
+    //to make pull
     // search formula http://localhost:8080/byingredient&ingredients="meat"
     @GetMapping("/byingredient")
     public String listOfRecipes(@RequestParam(value = "ingredients") String ingredients) {
