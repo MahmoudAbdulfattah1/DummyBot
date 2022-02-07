@@ -11,6 +11,7 @@ public class DummyBotApplication {
         SpringApplication.run(DummyBotApplication.class, args);
         System.out.println("TE7A IS BETTER");//COMMENT FORM UR UNCLE
         System.out.println("yessssss");
+        System.out.println("hahaha kont 3arff");
     }
 
 }
