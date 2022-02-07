@@ -10,6 +10,7 @@ public class DummyBotApplication {
         System.out.println("abogbl is the best");//comment to test
         SpringApplication.run(DummyBotApplication.class, args);
         System.out.println("TE7A IS BETTER");//COMMENT FORM UR UNCLE
+        System.out.println("yessssss");
     }
 
 }
