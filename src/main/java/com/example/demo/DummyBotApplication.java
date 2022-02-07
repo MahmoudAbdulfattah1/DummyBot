@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DummyBotApplication {
 
     public static void main(String[] args) {
+        System.out.println("abogbl is the best");
         SpringApplication.run(DummyBotApplication.class, args);
     }
 
